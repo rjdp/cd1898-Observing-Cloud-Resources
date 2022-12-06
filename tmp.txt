@@ -1,0 +1,15 @@
+{
+    "dataset": {
+        "created": "Sun, 04 Dec 2022 13:42:18 GMT",
+        "email": "rjdp9737@gmail.com",
+        "id": 3,
+        "role": 0,
+        "token": "R4Y9XKDCYLHJVV5KXCLF3XKKQ5HVCAID756LPWHGIJNVFYEFNF",
+        "username": "rjdp9736"
+    },
+    "status": {
+        "message": "101: Created.",
+        "records": 1,
+        "success": true
+    }
+}
